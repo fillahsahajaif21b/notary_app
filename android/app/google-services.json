@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522643509171",
+    "project_id": "notary-app-48e18",
+    "storage_bucket": "notary-app-48e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522643509171:android:8e3274837c9667a12fc5c6",
+        "android_client_info": {
+          "package_name": "com.notaryApp.notary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGcHqcCNmsN5VxMiC-51NpaJGtDEhISok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
